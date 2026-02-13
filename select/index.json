@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "base_track": "O Sole Mio",
+  "base_artist": "IZ*ONE",
+  "createdAt": "2026-02-13T16:13:26.844983Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "'O sole mio!",
+      "artist": "Gianna Nannini",
+      "has_synced": false,
+      "path": "select/01_'O_sole_mio!_Gianna_Nannini.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "O sole mio",
+      "artist": "Angelo Branduardi",
+      "has_synced": false,
+      "path": "select/02_O_sole_mio_Angelo_Branduardi.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "O Sole Mio",
+      "artist": "Luciano Pavarotti",
+      "has_synced": true,
+      "path": "select/03_O_Sole_Mio_Luciano_Pavarotti.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "'O sole mio",
+      "artist": "Luciano Pavarotti",
+      "has_synced": true,
+      "path": "select/04_'O_sole_mio_Luciano_Pavarotti.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "O Sole Mio",
+      "artist": "Luciano Pavarotti",
+      "has_synced": true,
+      "path": "select/05_O_Sole_Mio_Luciano_Pavarotti.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "O Sole Mio/It's Now Or Never",
+      "artist": "Elvis Presley",
+      "has_synced": false,
+      "path": "select/06_O_Sole_Mio_It's_Now_Or_Never_Elvis_Presley.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "O sole mio",
+      "artist": "Andrea Bocelli",
+      "has_synced": true,
+      "path": "select/07_O_sole_mio_Andrea_Bocelli.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "O Sole Mio",
+      "artist": "José Carreras",
+      "has_synced": false,
+      "path": "select/08_O_Sole_Mio_José_Carreras.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "'O sole mio",
+      "artist": "Eduardo di Capua",
+      "has_synced": false,
+      "path": "select/09_'O_sole_mio_Eduardo_di_Capua.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Luciano Pavarotti - O Sole Mio",
+      "artist": "Luciano Pavarotti",
+      "has_synced": true,
+      "path": "select/10_Luciano_Pavarotti_-_O_Sole_Mio_Luciano_Pavarotti.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "O Sole Mio",
+      "artist": "Men Without Hats",
+      "has_synced": true,
+      "path": "select/11_O_Sole_Mio_Men_Without_Hats.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "O Sole Mio",
+      "artist": "IZ*ONE",
+      "has_synced": true,
+      "path": "select/12_O_Sole_Mio_IZ_ONE.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "O sole mio",
+      "artist": "Luciano Pavarotti",
+      "has_synced": true,
+      "path": "select/13_O_sole_mio_Luciano_Pavarotti.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "O Sole Mio",
+      "artist": "Me First and The Gimme Gimmes",
+      "has_synced": true,
+      "path": "select/14_O_Sole_Mio_Me_First_and_The_Gimme_Gimmes.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "O Sole Mio",
+      "artist": "IZ*ONE (아이즈원)",
+      "has_synced": true,
+      "path": "select/15_O_Sole_Mio_IZ_ONE_(아이즈원).lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "’O sole mio",
+      "artist": "The Three Tenors",
+      "has_synced": true,
+      "path": "select/16_’O_sole_mio_The_Three_Tenors.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Sotto 'O Sole - 2008 - Remaster;",
+      "artist": "Pino Daniele",
+      "has_synced": false,
+      "path": "select/17_Sotto_'O_Sole_-_2008_-_Remaster;_Pino_Daniele.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Sotto 'O Sole (Remastered 2020)",
+      "artist": "Pino Daniele",
+      "has_synced": false,
+      "path": "select/18_Sotto_'O_Sole_(Remastered_2020)_Pino_Daniele.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Sotto 'O Sole (Remastered 2014)",
+      "artist": "Pino Daniele",
+      "has_synced": false,
+      "path": "select/19_Sotto_'O_Sole_(Remastered_2014)_Pino_Daniele.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Sotto 'o sole (Versione Alternativa)",
+      "artist": "Pino Daniele",
+      "has_synced": false,
+      "path": "select/20_Sotto_'o_sole_(Versione_Alternativa)_Pino_Daniele.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Sotto 'o sole - Live (Remastered)",
+      "artist": "Pino Daniele",
+      "has_synced": false,
+      "path": "select/21_Sotto_'o_sole_-_Live_(Remastered)_Pino_Daniele.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Sotto 'O Sole (live)",
+      "artist": "Pino Daniele",
+      "has_synced": false,
+      "path": "select/22_Sotto_'O_Sole_(live)_Pino_Daniele.txt"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Sotto 'o sole (Remastered)",
+      "artist": "Pino Daniele",
+      "has_synced": false,
+      "path": "select/23_Sotto_'o_sole_(Remastered)_Pino_Daniele.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "O Sole Mio",
+      "artist": "IZ*ONE",
+      "has_synced": false,
+      "path": "select/pl_01_O_Sole_Mio_IZ_ONE.txt"
+    }
+  ]
+}
